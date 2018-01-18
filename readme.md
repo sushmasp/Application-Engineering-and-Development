@@ -1,4 +1,4 @@
-## Banking Application with Cyber Security features:
+## Banking Application with Cyber Security features
 
 •	Developed Java application for a Bank which is used by both bank employees and customers for mundane activities like credit/debit, issue of cashier’s check, loan approval etc.
 
